@@ -22,7 +22,7 @@
 </head>
 <body>
 
-<!-- bootstrap ??? -->
+<!-- bootstrap  -->
     <nav class="navbar navbar-default navbar-static-top" style="margin-bottom: 0;">
         <div class="container">
             <div class="navbar-header">
